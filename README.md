@@ -1,20 +1,24 @@
-Spotify Album Search(Project name)
+Daily Expenses Tracker(Project name)
 
-My project consist of 2 pages. 1 is for user to log in to their spotify account, the other one is to let user
-Search for songs or album from Spotify. They can search an album by choosing its genre and playlist. I uses the spotify API where i search
-thorugh the spotify songs using their API.
+My project consist of 2 pages. The first page consist the information and purpose of the website i am making. The 2nd website is the product itself.
+The website can allow user to enter their Income and also their Expenses and then help them come out with the budget for the month. This website lets user
+know their monthly budget as they key in the neccessary information on their expenses.
 
 Design Process
-This website is for people who uses spotify premium. They can search songs or album through this website to find out whether the song exist in Spotify 
-or not.
+
 
 This is the link to the Wireframe of my website : https://xd.adobe.com/view/e81959f2-0cca-4964-8c26-f638d737663a-bd4a/
 
 
 Features
-1. Login page for spotify users
-2. Search for albums / songs 
-3. Search thru spotify database of songs
+1. Overview and purpose of the website
+2. Allow user to enter their Income
+3. Allow user to enter their expenses
+4. Display the budget of the month after entering both income and expenses
+5. Display what user have keyed in for references.
+6. Dark mode available
+7. Shows the percentage of expenses used from the Income
+8. Added content can be removed. 	
 
 
 Technologies used
@@ -28,10 +32,10 @@ Content
 
 
 Fonts
-
+https://fonts.google.com/specimen/Open+Sans
 
 Media
-1.https://www.google.com/search?q=spotify&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjK0ff-ne7tAhULIbcAHXwMAGcQ_AUoAnoECBgQBA&biw=1280&bih=610#imgrc=VGvkP5wOYkxPFM
+1.https://www.google.com/search?q=saving+expenses&tbm=isch&ved=2ahUKEwiZmZePhonuAhXR2nMBHaE3AZEQ2-cCegQIABAA&oq=saving+expe&gs_lcp=CgNpbWcQARgAMgIIADICCAAyBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeOggIABCxAxCDAToFCAAQsQM6BAgAEEM6BwgAELEDEEM6BAgAEB46BggAEAoQGDoECAAQGFDYd1jVkgFg850BaAlwAHgAgAE9iAHpBZIBAjE3mAEAoAEBqgELZ3dzLXdpei1pbWewAQDAAQE&sclient=img&ei=f5b2X9ndCdG1z7sPoe-EiAk&bih=610&biw=1280#imgrc=GehqQlzkYY9PwM
 
 
 
