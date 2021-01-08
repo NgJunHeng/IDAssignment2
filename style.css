@@ -48,6 +48,11 @@ body {
     font-family: 'Hanalei Fill', cursive;
     font-size: 30px;
 }
+.chart_div{
+    position: relative;
+    font-family: 'Redressed', cursive;
+    font-size: 30px;
+}
 
 .top {
     height: 40vh;
@@ -104,14 +109,18 @@ body {
     background-color: #FF5049;
 }
 
+.chart_title{
+    font-family: 'Redressed', cursive;
+}
+
 .button {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
     text-align: center;
+    float:center;
     text-decoration: none;
-    display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
