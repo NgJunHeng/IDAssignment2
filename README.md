@@ -16,7 +16,7 @@ month. The data will then show below the place where they input data. This is le
 for the rest of the month. At the bottom of the tracker page, there is a chart shown. It wont show the data user enter because i did not know how to use it
 with the chart. Instead it shows user how they can track their expenses by using a chart.
 
-This is the link to the Wireframe of my website : https://xd.adobe.com/view/e81959f2-0cca-4964-8c26-f638d737663a-bd4a/
+This is the link to the Wireframe of my website : https://xd.adobe.com/view/88648ce1-3874-40d6-973e-ee4abb8b2fc0-dd37/
 
 
 Features
