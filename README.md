@@ -34,6 +34,11 @@ Technologies used
 HTML,CSS,Javascript, Google Chart API
 
 Testing
+1. Check that the homepage button redirects to the tracker.html page.
+2. After adding the description and amount check whether the data is added below.
+3. On the value box, only numbers can be added in.
+4. The budget is displayed after user entered data in.
+5. Check the dark mode is working properly.
 
 Credits
 
