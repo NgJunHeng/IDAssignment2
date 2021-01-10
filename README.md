@@ -1,4 +1,4 @@
-Daily Expenses Tracker(Project name)
+Budget Tracker(Project name)
 
 My project consist of 2 pages. The first page consist the information and purpose of the website i am making. The 2nd website is the product itself.
 The website can allow user to enter their Income and also their Expenses and then help them come out with the budget for the month. This website lets user
@@ -9,7 +9,7 @@ using google chart API.
 
 Design Process
 
-This website is for people who want to know what is thier monthly budget.What i want to achieve is to let users enter their data and let them get the results
+This website is for people who want to know what is their monthly budget.What i want to achieve is to let users enter their data and let them get the results
 that they wanted. I created a simple website that lets user enter their monthly income and also the expenses for the month. I got the home page which tell 
 users more about how to use the websites. Then after clicking a button in the home page, they can then use the Budget Tracker to track their budget for the
 month. The data will then show below the place where they input data. This is let user see what they have spend on their expenses and how much they have left
